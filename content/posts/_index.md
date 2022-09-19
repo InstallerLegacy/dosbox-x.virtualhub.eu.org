@@ -1,4 +1,4 @@
 ---
-author: Katheryn Fox
-title: Blog
+author: Legacy Installer
+title: Posts
 ---

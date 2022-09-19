@@ -1,11 +1,4 @@
----
-author: "Legacy Installer"
-title: "Welcome"
-description: "Welcome to VirtualHub DOSBox-X"
-tags: ["welcome"]
-date: 2022-09-19
-thumbnail: /images/2022/19/05/welcome.webp
----
+# VirtualHub DOSBox-X
 
 Welcome to VirtualHub DOSBox-X! Here we will install old software on [DOSBox-X](https://dosbox-x.com/) directly.
 
@@ -14,3 +7,4 @@ On the main [VirtualHub](https://www.virtualhub.eu.org) website, we install old 
 I know that you can also use DOSBox but I find DOSBox-X nor convenient and feature-rich, so I am going to use it.
 
 Stay tuned!
+
