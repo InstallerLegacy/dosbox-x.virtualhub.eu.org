@@ -7,4 +7,3 @@ On the main [VirtualHub](https://www.virtualhub.eu.org) website, we install old 
 I know that you can also use DOSBox but I find DOSBox-X nor convenient and feature-rich, so I am going to use it.
 
 Stay tuned!
-
