@@ -41,7 +41,7 @@ DefaultContentLanguageInSubdir = true
 [params.homepage.social]
   # Global params common for both languages
   title = "Follow us"
-  description = "Follow us to know how to install old software and OS in may different ways."
+  description = "Follow us to know how to install old software and OS in many different ways."
   twitter = "https://twitter.com/virtua1hub"
   github = "https://github.com/InstallerLegacy"
 
